@@ -9,3 +9,7 @@ So you make informed decisions of when to update your environment
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Different starwars characters
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Know when you are in or out of sync and how to create merges
